@@ -9,7 +9,7 @@ import java.net.URL;
 public class Ex2 {
 
 	public static void main(String[] args) throws IOException, URISyntaxException {
-		URL url = new URL("http://www.codechobo.com:80/sample/" + "hello.html?referer=codechobo#index1");
+		URL url = new URL("https://www.naver.com/");
 
 		System.out.println("url.getAuthority():"+ url.getAuthority());
 		System.out.println("url.getContent():"+ url.getContent());
