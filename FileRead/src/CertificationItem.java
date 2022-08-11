@@ -33,6 +33,7 @@ public class CertificationItem {
         this.certificationFarm = certificationFarm;
     }
 
+
     public String getCertificationItemName() {
         return certificationItemName;
     }

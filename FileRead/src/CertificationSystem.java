@@ -67,7 +67,7 @@ public class CertificationSystem {
         System.out.println("help : 메뉴얼 출력");
         System.out.println("exit : 종료");
         System.out.println("read : 파일을 읽는다.");
-        System.out.println("search 필드명 검색어 : 주어진 검색 필드에서 검색어를 검색 후 목록 출력");
+        System.out.println("search : 검색");
 
     }
 
